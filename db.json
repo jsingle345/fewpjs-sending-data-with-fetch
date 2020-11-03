@@ -15,6 +15,22 @@
       "dogBreed": "Mutt",
       "submit": "Submit",
       "id": 3
+    },
+    {
+      "dogName": "Tinni",
+      "dogBreed": "Chiwawa",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Royal",
+      "dogBreed": "Doberman",
+      "id": 6
     }
   ],
   "cats": [
@@ -29,7 +45,113 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "Joshua",
+      "email": "joshua@example",
+      "id": 1
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua@example",
+      "id": 2
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua@example",
+      "id": 3
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 4
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 5
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 6
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 7
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 8
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 9
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 10
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 11
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 12
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 13
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 14
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 15
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 16
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 17
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 18
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 19
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 20
+    },
+    {
+      "name": "Joshua",
+      "email": "joshua.singeton@mybusiness.com",
+      "id": 21
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
